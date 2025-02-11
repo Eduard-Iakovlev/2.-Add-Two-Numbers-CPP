@@ -8,6 +8,8 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Example 1:
 
+![image](https://github.com/user-attachments/assets/8ff90350-0c12-4c89-a92e-76771bc85055)
+
 
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]
@@ -38,6 +40,8 @@ It is guaranteed that the list represents a number that does not have leading ze
  
 
 Пример 1:
+
+![image](https://github.com/user-attachments/assets/1a598048-e3d2-4e40-9ce5-555b392afa30)
 
 
 Ввод: l1 = [2,4,3], l2 = [5,6,4]
